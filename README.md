@@ -8,8 +8,8 @@
 
  Install the server via npm:
 
-```
- npm install -g serve
- cd repo_file
- serve
-```
+`npm install -g serve`
+ 
+ CD to the repo file
+ 
+ `serve`
