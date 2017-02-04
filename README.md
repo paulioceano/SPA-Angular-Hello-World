@@ -6,6 +6,11 @@ SPA-Angular-Hello-World
  ```
  git clone https://github.com/rafanog/SPA-Angular-hello-world
  ```
+ Install the dependencies:
+ 
+ ```
+ npm install
+ ```
 
  - To run:
 
