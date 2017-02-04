@@ -1,4 +1,5 @@
-"# SPA-Angular-Hello-World" 
+SPA-Angular-Hello-World
+=======================
 
  - To install this repo:
 
