@@ -8,7 +8,7 @@ SPA-Angular-Hello-World
  ```
  Install the dependencies:
  
- ```
+ ```js
  npm install
  ```
 
