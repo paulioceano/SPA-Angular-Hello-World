@@ -32,3 +32,4 @@ app.controller('BlogController', function($scope) {
 app.controller('AboutController', function($scope) {
   $scope.message = 'Hello from AboutController';
 });
+
